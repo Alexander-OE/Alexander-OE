@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander
 =================================================================================================================================
 
-I'm a Software Engineer
------------------------
+Software Engineer
+-----------------
 
 I'm a software engineer specialized in building Frontend applications, occasionally backend and rarely design. I take pride in my work and ensure I deliver the fastest, most accessible and most responsive application possible. I enjoy working/meeting new people
 
@@ -30,15 +30,9 @@ I'm a software engineer specialized in building Frontend applications, occasiona
 
 <p align="left"> <a href="https://www.github.com/Alexander-OE" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexander-egbe-693461234/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AlexanderOE_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+<!-- ### Badges -->
 
 <a href="https://github.com/Alexander-OE" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-OE&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
-
-
-
 
 
 
