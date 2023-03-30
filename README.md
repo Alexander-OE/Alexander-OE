@@ -8,7 +8,7 @@ I'm a software engineer who specializes in building Frontend applications, occas
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [egbealexander05@gmail.com](mailto:egbealexander05@gmail.com)
-* 🤝  I'm open to collaborating on awesome projects
+* 🤝  I'm open to collaborating on projects
 * ⚡  Fun fact: I code with the lights off😎
 
 ### Skills
