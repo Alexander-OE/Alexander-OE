@@ -3,11 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer
 -----------------
-
-I'm a software engineer who specializes in building Frontend applications, occasionally backend as well. I take pride in my work and ensure I deliver the fastest, most accessible and most responsive applications possible. I enjoy working alongside others on projects and networking.
-
-* 🌍  I'm based in Lagos, Nigeria
-* 🧑🏽‍💻  I'm currently learing Fullstack development and Devops
+* 🧑‍💻  I'm a Frontend Engineer 
+* 🥷  I'm currently learing Fullstack development
 * ✉️  You can contact me at [egbealexander05@gmail.com](mailto:egbealexander05@gmail.com)
 * 🤝  I'm open to collaborating on projects
 * ⚡  Fun fact: I code with the lights off😎
