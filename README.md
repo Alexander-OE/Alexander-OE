@@ -3,11 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer
 -----------------
-* 🧑‍💻  I'm a Frontend Engineer 
-* 🥷  I'm currently learing Fullstack development
 * ✉️  You can contact me at [egbealexander05@gmail.com](mailto:egbealexander05@gmail.com)
-* 🤝  I'm open to collaborating on projects
-* ⚡  Fun fact: I code with the lights off😎
+* 🤝  I'm open to collaborating on projects ReactJS or NodeJs 
+* ⚡  Fun fact: I like to watch movies and listen to music😎
 
 ### Skills
 <p align="left">
