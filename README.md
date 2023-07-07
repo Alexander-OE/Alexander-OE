@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer
 -----------------
-* 🧑‍💻  I'm interested in Blockchain
+* 🧑‍💻  I'm interested in web2 & web3
 * 🤝  I'm open to collaborating on projects ReactJS or NodeJs 
 * ✉️  You can contact me at [egbealexander05@gmail.com](mailto:egbealexander05@gmail.com)
 * ⚡  Fun fact: I like to watch movies and listen to music😎
