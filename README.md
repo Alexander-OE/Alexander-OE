@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander
-=================================================================================================================================
-
-Software Engineer
+<!--Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander-->
+<!-- ================================================================================================================================= -->
+Hello , I'm Alexander 👋
 -----------------
-* 🧑‍💻  I'm interested in web2 & web3
-* 🤝  I'm open to collaborating on projects ReactJS or NodeJs 
+* 🧑‍💻  I derive immense joy from crafting exceptionally efficient and highly scalable products.
+* 🥷  Actively taking my problem solving skills to the next level.
+* 👀  I'm looking to collaborating on ReactJS or NodeJS projects.
 * ✉️  You can contact me at [egbealexander05@gmail.com](mailto:egbealexander05@gmail.com)
-* ⚡  Fun fact: I like to watch movies and listen to music😎
+* ⚡  Fun fact: I spend my time exploring exciting new things or kicking back with a captivating movie for some well-deserved fun!😎
 
-### Skills
+<!--### Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -30,11 +30,11 @@ Software Engineer
 
 ### Socials
 
-</a> <a href="https://www.linkedin.com/in/alexander-egbe-693461234/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AlexanderOE_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+</a> <a href="https://www.linkedin.com/in/alexander-egbe-693461234/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AlexanderOE_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> -->
 
 <!-- ### Badges -->
 
-<a href="https://github.com/Alexander-OE" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-OE&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!--<a href="https://github.com/Alexander-OE" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-OE&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
 
 
 
