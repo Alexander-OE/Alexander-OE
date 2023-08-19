@@ -5,11 +5,11 @@ Hello , I'm Alexander 👋
 * 🧑‍💻  I enjoy crafting exceptionally efficient and highly scalable products.
 * 🚀  Taking my problem solving skills to the next level.
 * 👀  I'm looking to collaborating on ReactJS or NodeJS projects.
-* ✉️  You can contact me at [egbealexander05@gmail.com](mailto:egbealexander05@gmail.com)
 * ⚡  Fun fact: I spend my time exploring exciting new things or kicking back with a captivating movie for some well-deserved fun!😎
 
 <!--### Skills
 <p align="left">
+* ✉️  You can contact me at [egbealexander05@gmail.com](mailto:egbealexander05@gmail.com)
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
