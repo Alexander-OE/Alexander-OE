@@ -6,7 +6,6 @@ Hello , I'm Alexander 👋
 * 🚀  Taking my problem solving skills to the next level.
 * 👀  I'm looking to collaborating on ReactJS or NodeJS projects.
 * ✉️  You can contact me at [egbealexander05@gmail.com](mailto:egbealexander05@gmail.com)
-* ⚡  Fun fact: I spend my time exploring exciting new things or kicking back with a captivating movie for some well-deserved fun!😎
 
 <!--### Skills
 <p align="left">
