@@ -1,14 +1,14 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 <!--Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander-->
 <!-- ================================================================================================================================= -->
-<!-- Hi there , I'm Alex 👋
+ Hi there , I'm Alex 👋
 -----------------
 * 🧑‍💻  I enjoy crafting exceptionally efficient and highly scalable products.
 * 🚀  Taking my problem solving skills to the next level.
 * 😌  I'm looking to collaborating on ReactJS or NodeJS projects.
-* ✉️  You can contact me at [egbealexander05@gmail.com](mailto:egbealexander05@gmail.com) -->
+* ✉️  You can contact me at [egbealexander05@gmail.com](mailto:egbealexander05@gmail.com) 
 
-<!--  ### Skills
+  ### Skills
 
 
 <p align="left">
