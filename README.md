@@ -8,7 +8,8 @@
 * 😌  I'm looking to collaborating on ReactJS or NodeJS projects.
 * ✉️  You can contact me at [egbealexander05@gmail.com](mailto:egbealexander05@gmail.com) 
 
-  ### Skills
+ Skills
+-----------------
 
 
 <p align="left">
