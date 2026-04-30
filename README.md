@@ -10,7 +10,6 @@
 - 🤝 Open to collaborating on **ReactJS** or **NodeJS** projects  
 - 📍 Lagos, Nigeria
 - ✉️ [egbealexander05@gmail.com](mailto:egbealexander05@gmail.com)
-- 🌐 [alexander-egbe.vercel.app](https://alexander-egbe.vercel.app/)
 
 ---
 
